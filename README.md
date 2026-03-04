@@ -1,9 +1,11 @@
 # 👋 Hi there, I'm Adesh Trivedi!
 
 ![Profile views](https://komarev.com/ghpvc/?username=AdeshM12&label=Profile%20views&color=0e75b6&style=flat)
+---
 
 DevOps & Site Reliability Engineer with ~3 years of experience supporting large-scale enterprise production systems.
 I enjoy building **automation platforms, CI/CD pipelines, and scalable cloud infrastructure**.
+
 ---
 # 🌐 Connect With Me
 
@@ -36,31 +38,11 @@ I enjoy building **automation platforms, CI/CD pipelines, and scalable cloud inf
 
 ---
 
-# 🚀 Projects
-
-• **ERP – Employee Management & Billing System**  
-Automation platform for workforce management and billing generation.
-
-• **CI/CD Pipeline Automation Framework**  
-Automated enterprise build, test, and deployment pipelines using Jenkins.
-
-• **Control-M Enterprise Job Migration**  
-Migrated enterprise scheduling workloads from on-prem infrastructure to cloud.
-
-• **Infrastructure Automation Platform**  
-Provisioned cloud infrastructure using Terraform and Ansible.
-
----
-
 # 🏆 Certifications
 
 ![Google Cloud Certified](https://img.shields.io/badge/Google_Cloud-Associate_Cloud_Engineer-blue?style=flat&logo=google-cloud)
-
 ![Jenkins Certified Engineer L1](https://img.shields.io/badge/Jenkins-Certified_Engineer_Level_1-red?style=flat&logo=jenkins)
-
 ![Jenkins Certified Engineer L2](https://img.shields.io/badge/Jenkins-Certified_Engineer_Level_2-darkred?style=flat&logo=jenkins)
-
-![Microsoft Power BI PL-300](https://img.shields.io/badge/Microsoft_PowerBI-PL--300-yellow?style=flat&logo=powerbi)
 
 ---
 
